@@ -5,4 +5,4 @@ Este repositorio también contiene programas ajenos a ese curso realizados con f
 
 Los programas con formato p#_____.cbl fueron probados en los servidores de IBM México haciendo uso de la terminal CANDE, desarrollada por Unisys.
 
-Todos los programas son compatibles con GnuCOBOL a excepción de p11, p12, p13, p14 y p15 los cuales presentan problemas de compatibilidad.
+Todos los programas pueden ser ejecutados con GnuCOBOL a excepción de p11, p12, p13, p14 y p15 los cuales presentan problemas de compatibilidad.
